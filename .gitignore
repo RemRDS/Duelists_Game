@@ -29,3 +29,6 @@ Release/
 # OS files
 Thumbs.db
 .DS_Store
+
+# Claude Code files
+.claude/
