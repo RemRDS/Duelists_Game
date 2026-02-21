@@ -30,5 +30,5 @@ Release/
 Thumbs.db
 .DS_Store
 
-# Claude Code files
+# Bug fix assistance tools
 .claude/
